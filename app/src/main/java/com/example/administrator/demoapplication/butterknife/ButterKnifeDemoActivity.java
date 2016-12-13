@@ -28,6 +28,8 @@ public class ButterKnifeDemoActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.butterknife_demo);
         unbinder = ButterKnife.bind(this);
+
+        
     }
 
     @Override
