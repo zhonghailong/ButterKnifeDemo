@@ -29,7 +29,8 @@ public class ButterKnifeDemoActivity extends AppCompatActivity {
         setContentView(R.layout.butterknife_demo);
         unbinder = ButterKnife.bind(this);
 
-        
+
+           
     }
 
     @Override
